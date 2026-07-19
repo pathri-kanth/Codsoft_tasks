@@ -1,0 +1,19 @@
+{
+  "name": "abishek-portfolio",
+  "version": "1.0.0",
+  "description": "Abishek R's personal portfolio website with Node/Express + MongoDB contact form backend",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
