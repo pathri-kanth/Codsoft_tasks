@@ -1,4 +1,4 @@
-# Abishek R — Portfolio Website
+# pathri kanth p— Portfolio Website
 
 A minimal, typography-driven personal portfolio built with plain HTML/CSS/JS on the frontend and a Node.js/Express + MongoDB backend for handling contact form submissions.
 
